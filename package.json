@@ -1,0 +1,22 @@
+{
+  "name": "pantau",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.7.0",
+    "axios": "^1.13.5",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^24.37.2",
+    "puppeteer-core": "^24.37.2",
+    "youtube-chat": "^2.2.0"
+  }
+}
